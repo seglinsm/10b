@@ -15,3 +15,6 @@ print("Luīze Vītoliņa")
 
 
 print("Martins Vikmanis")
+
+
+print("Jana Teretenko")
