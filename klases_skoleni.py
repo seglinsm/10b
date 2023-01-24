@@ -5,7 +5,7 @@ print("Elvita Petrauska")
 print("Luīze Vītoliņa")
 print("Patrīcija Špakovska")
 print("Luīze Vītoliņa")
-
+print("Kristers Didrihsons")
 
 
 
