@@ -8,7 +8,7 @@ print("Luīze Vītoliņa")
 
 
 
-
+print('Estere Ilze Ozolina')
 
 
 
