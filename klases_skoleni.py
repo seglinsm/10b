@@ -3,18 +3,10 @@ print("Mani sauc Artūrs Ausējs")
 print("Artūrs Ausējs")
 print("Elvita Petrauska")
 print("Luīze Vītoliņa")
+print("Deniss Petrovs")
 print("Patrīcija Špakovska")
 print("Luīze Vītoliņa")
-
-
-
-
-
-
-
-
-
 print("Martins Vikmanis")
-
-
 print("Jana Teretenko")
+print('Estere Ilze Ozolina')
+print("Anna Mišela Tunika")
